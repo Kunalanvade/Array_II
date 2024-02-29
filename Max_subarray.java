@@ -21,10 +21,11 @@ public class Max_subarray {
                 }
             }
         }
+        System.out.println("max sum : " + maxSum);
     }
 
     public static void main(String[] args) {
         int number[] = { 2, 4, 6, 8, 10 };
-        Max_Sum_subarray(number[]);
+        Max_Sum_subarray(number);
     }
 }
