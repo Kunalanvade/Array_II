@@ -25,7 +25,7 @@ public class Max_subarray {
     }
 
     public static void main(String[] args) {
-        int number[] = { 2, 4, 6, 8, 10 };
+        int number[] = { 1, -2, 6, -1, 3 };
         Max_Sum_subarray(number);
     }
 }
